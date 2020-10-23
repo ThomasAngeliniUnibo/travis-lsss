@@ -8,6 +8,10 @@ os:
   - linux
   - osx
 
+arch:
+  - arm64
+  - amd64
+
 install:
   - true
 
