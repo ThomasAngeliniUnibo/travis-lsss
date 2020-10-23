@@ -102,8 +102,8 @@ publishOnCentral {
     projectLongName.set("Exemplary greeting plugin")
     licenseName.set("MIT License")
     licenseUrl.set("https://opensource.org/licenses/MIT")
-    projectUrl.set("https://github.com/DanySK/Course-Laboratory-of-Software-Systems")
-    scmConnection.set("git:git@github.com:DanySK/Course-Laboratory-of-Software-Systems.git")
+/*    projectUrl.set("https://github.com/DanySK/Course-Laboratory-of-Software-Systems")
+    scmConnection.set("git:git@github.com:DanySK/Course-Laboratory-of-Software-Systems.git")*/
 }
 
 publishing {
@@ -112,9 +112,9 @@ publishing {
             pom {
                 developers {
                     developer {
-                        name.set("Danilo Pianini")
-                        email.set("danilo.pianini@gmail.com")
-                        url.set("http://www.danilopianini.org/")
+                        name.set("Thomas Angelini")
+                        email.set("thomas.angelini@studio.unibo.it")
+                        // url.set("http://www.danilopianini.org/")
                     }
                 }
             }
